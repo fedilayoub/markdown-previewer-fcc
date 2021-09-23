@@ -19,9 +19,9 @@ the goal is to fulfill the user stories bellow:
 ![preview image](https://github.com/fedilayoub/markdown-prevoiewer-fcc/blob/master/preview.jpg)  
 
 ## Live demo:  
-[Markdown Previewer]()
+[Markdown Previewer](https://fedilayoub.github.io/markdown-previewer-fcc/)
 
 
-### `npm start`
+
 
 
