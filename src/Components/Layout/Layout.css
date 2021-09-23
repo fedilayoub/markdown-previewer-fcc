@@ -1,0 +1,28 @@
+.Layout {
+    border: 3px solid #eff5ff;
+    min-width: 15rem;
+    width: 55rem;
+    border-radius: 5px;
+    margin: 1rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+  }
+  
+  .Layout-header {
+    padding: 0.5rem;
+    background: #eff5ff;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .Layout-header-title {
+    color: #247ba0;
+    font-weight: bold;
+  }
+  
+  
+  
+  @media screen and (max-width: 700px) {
+    .Layout {
+      width: 95%;
+    }
+  }
