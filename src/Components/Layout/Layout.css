@@ -9,17 +9,15 @@
   
   .Layout-header {
     padding: 0.5rem;
-    background: #eff5ff;
+    background: #cbd0d8;
     display: flex;
     justify-content: space-between;
   }
   
   .Layout-header-title {
-    color: #247ba0;
+    color: #1e1f1f;
     font-weight: bold;
   }
-  
-  
   
   @media screen and (max-width: 700px) {
     .Layout {
