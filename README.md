@@ -16,10 +16,11 @@ the goal is to fulfill the user stories bellow:
 **User Story #6**: When my markdown previewer first loads, the default markdown in the #editor field should be rendered as HTML in the #preview element.  
 
 ## Result:  
-![preview image](https://github.com/fedilayoub/markdown-prevoiewer-fcc/blob/master/preview.jpg)  
+![preview image](https://github.com/fedilayoub/markdown-previewer-fcc/blob/master/preview.jpg)  
 
 ## Live demo:  
-[Markdown Previewer](https://fedilayoub.github.io/markdown-previewer-fcc/)
+[Markdown Previewer](https://fedilayoub.github.io/markdown-previewer-fcc/)  
+enjoy!
 
 
 
